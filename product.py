@@ -1,5 +1,3 @@
-# product.py
-
 def product_details(product_id, name, quantity, price):
     result = (
         f"Product ID: {product_id}\n"
@@ -10,7 +8,7 @@ def product_details(product_id, name, quantity, price):
     return result
 
 
-if __name__ == "_main_":
+if _name_ == "_main_":
     # Sample input
     product_id = "P101"
     name = "Laptop"
