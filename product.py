@@ -17,4 +17,4 @@ if _name_ == "_main_":
     quantity = 5
     price = 55000
 
-    print(product_details(product_id, name, quantity, price))
+    print(product_details(product_id, name, quantity, price))
