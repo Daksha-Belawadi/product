@@ -9,5 +9,4 @@ def test_product_details():
         "Quantity: 5\n"
         "Price: 55000"
     )
-
-    assert product_details("P101", "Laptop", 5, 55000) == expected_output
+    assert product_details("P101", "Laptop", 5, 55000) == expected_output
